@@ -1,6 +1,9 @@
 # Ignite Feed
 Um Feed de uma rede social desenvolvida em Typescript
 
+## Layout
+
+<img src='./public/ig-feed-img.png'
 
 ## Installation and Setup Instructions
  
